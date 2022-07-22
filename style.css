@@ -72,7 +72,7 @@ p, li, em, a {
     border: 1px solid white;
     border-radius: 50%;
     margin: 20px auto 50px auto;
-    background-image: url(Images/myImg2.jpg);
+    background-image: url(Images/myImg2.JPG);
     background-size: contain;
     color: #95389E;
 
@@ -172,7 +172,7 @@ nav a span {
 }
 
 .img {
-    background-image: url(/Images/myImg2.jpg);
+    background-image: url(Images/myImg2.JPG);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
