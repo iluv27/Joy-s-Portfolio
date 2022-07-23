@@ -685,6 +685,7 @@ margin: 10px 30px;
         position: fixed;
         bottom: 0;
         background-color: #95389E;
+        margin: auto;
     }
 
     nav {
@@ -692,7 +693,7 @@ margin: 10px 30px;
         justify-content: space-evenly;
         width: 90%;
         height: 6rem;
-        position: initial;
+        position: relative;
         margin: auto;
     }
 
