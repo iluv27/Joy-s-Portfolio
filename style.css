@@ -798,6 +798,12 @@ margin: 10px 30px;
     }
 
     /* FOURTH SECTION */
+    
+    #second-section p {
+    font-size: 1rem;
+    text-align: justify;
+   }
+    
     .blog-items1 {
         grid-template-columns: 1fr;
         gap: 30px;
