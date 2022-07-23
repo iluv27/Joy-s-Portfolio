@@ -692,6 +692,8 @@ margin: 10px 30px;
         justify-content: space-evenly;
         width: 90%;
         height: 6rem;
+        position: initial;
+        margin: auto;
     }
 
     .initials, .a, .b, .c, .d, .e {
