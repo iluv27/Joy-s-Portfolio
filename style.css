@@ -775,6 +775,7 @@ margin: 10px 30px;
 
     #second-section p {
         font-size: 1rem;
+        text-align: justify;
     }
 
     .skill-set1 span {
@@ -798,11 +799,6 @@ margin: 10px 30px;
     }
 
     /* FOURTH SECTION */
-    
-    #second-section p {
-    font-size: 1rem;
-    text-align: justify;
-   }
     
     .blog-items1 {
         grid-template-columns: 1fr;
