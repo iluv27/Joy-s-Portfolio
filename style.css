@@ -761,8 +761,6 @@ margin: 10px 30px;
         flex-direction: column;
         width: 330px;
         margin: auto;
-        padding-left: 10px;
-        padding-right: 10px;
     }
 
     .sharing1 {
@@ -822,11 +820,6 @@ margin: 10px 30px;
         .blog-items img {
             width: 250px;
             height: 150px;}
-
-        .share1 {
-            /* flex-direction: column; */
-            width: 350px;
-            /* margin: auto; */}
 
     /* FIFTH SECTION */
     .contact {
